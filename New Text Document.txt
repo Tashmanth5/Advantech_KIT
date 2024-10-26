@@ -1,1 +1,3 @@
-testing
+Implementations
+
+1. Using Wireless network to send data to datahub
